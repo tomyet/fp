@@ -1,0 +1,6 @@
+compile
+scala
+console
+compile
+console Hello
+console
